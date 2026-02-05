@@ -1,4 +1,4 @@
-# 🧠 Context-Aware Clipboard Manager
+#  CONTEXT-AWARE CLIPBOARD MANAGER
 
 A simple yet practical desktop project that automatically **classifies and stores clipboard content** (text, code, URLs, etc.) for better organization and future retrieval.
 This project focuses on building a **useful system-level utility** using Python with clean modular design.
@@ -12,7 +12,7 @@ This project aims to solve that by **understanding what you copy** and **organiz
 
 ---
 
-## 🚀 Features
+##  Features :
 
 * 📋 Monitors clipboard activity in real time
 * 🧠 Classifies clipboard content (text / code / URLs, etc.)
@@ -22,7 +22,7 @@ This project aims to solve that by **understanding what you copy** and **organiz
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack :
 
 * **Language:** Python
 * **Database:** SQLite
@@ -34,7 +34,7 @@ This project aims to solve that by **understanding what you copy** and **organiz
 
 ---
 
-## 📁 Project Structure
+## Project Structure :
 
 ```
 context-aware-clipboard-manager/
@@ -50,28 +50,21 @@ context-aware-clipboard-manager/
 
 ---
 
-## ▶️ How to Run the Project
+## ▶️ How to Run the Project :
 
-1. **Clone the repository**
 
    ```bash
    git clone https://github.com/Adithyaadiga12/content-aware-clipB-manager.git
    ```
 
-2. **Navigate to the project folder**
-
    ```bash
    cd content-aware-clipB-manager
    ```
-
-3. **Create and activate virtual environment**
 
    ```bash
    python -m venv venv
    venv\Scripts\activate
    ```
-
-4. **Run the application**
 
    ```bash
    python app.py
@@ -79,7 +72,7 @@ context-aware-clipboard-manager/
 
 ---
 
-## 🧪 Example Use Case
+##  Example Case :
 
 * Copy a code snippet → stored as **code**
 * Copy a website link → stored as **URL**
@@ -89,7 +82,7 @@ All entries are saved in the database with timestamps for future use.
 
 ---
 
-## 📌 What I Learned from This Project
+##  TAKEAWAYS :
 
 * Working with **system-level utilities**
 * Designing **clean modular Python code**
@@ -99,7 +92,7 @@ All entries are saved in the database with timestamps for future use.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements :
 
 * GUI interface for browsing clipboard history
 * Search & filter functionality
@@ -108,13 +101,6 @@ All entries are saved in the database with timestamps for future use.
 
 ---
 
-## 🙋‍♂️ About Me
-
-I’m a student passionate about **software development and problem-solving**, building practical projects to strengthen my fundamentals and real-world skills.
-
-Feel free to explore the repository or suggest improvements!
-
----
 
 ## ⭐ If you like this project
 
@@ -122,22 +108,4 @@ Give it a ⭐ on GitHub — it really helps and motivates me 🙂
 
 ---
 
-## ✅ Next steps (do this now)
-
-1. Create the file:
-
-   ```bat
-   notepad README.md
-   ```
-2. Paste the content above
-3. Save it
-4. Commit & push:
-
-   ```bat
-   git add README.md
-   git commit -m "Added project README"
-   git push
-   ```
-
----
 
